@@ -2,8 +2,11 @@
 
 @import 'animate.css/animate.min';
 
+
+
+
 /*---------------loading--------------*/
-body{
+bodyloading{
   padding: 1em;
   background: white;
   color: #777;
